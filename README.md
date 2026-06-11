@@ -4,9 +4,8 @@
 ###  About Me  
 I’m an enthusiastic and forward-thinking developer passionate about building **impactful digital solutions** that merge **creativity with technology**.  
 From hackathons to classroom projects, I thrive on solving real-world problems with **clean code, data-driven insights, and thoughtful design**.
-- **B.Tech in CSE (Data Science)** – New Horizon College of Engineering (2023–2027)  
-- Active **IEEE Member & Webmaster** at NHCE  
--  Passionate about **AI**, **Frontend Development**, and **Sustainable Tech**  
+- **B.Tech in CSE (Data Science)** – New Horizon College of Engineering (2023–2027)    
+-  Passionate about , **Frontend Development**, and **Sustainable Tech**  
 -  I love turning ideas into interactive user experiences  
 ---
 ###  Tech Stack  
